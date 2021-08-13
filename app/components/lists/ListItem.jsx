@@ -10,8 +10,8 @@ import {
   TouchableOpacity,
   IconComponent,
 } from "react-native";
-import colors from "../config/colors";
-import UserText from "./UserText";
+import colors from "../../config/colors";
+import UserText from "../UserText";
 
 export default function ListItem({
   image,
